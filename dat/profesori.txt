@@ -1,0 +1,25 @@
+1
+P5651
+Janko
+Petrovic
+Visi predavac
+2
+P7658
+Ivica
+Zupan
+Profesor visoke skole
+3
+P9112
+Marija
+Pribanic
+Predavac
+4
+P3401
+Ivana
+Kovacevic
+Predavac
+5
+P9632
+Marko
+Kovac
+Predavac
